@@ -1,0 +1,41 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+   <data>
+      <element>
+         <img>2004_Porsche_911_Carrera_type_997.jpg</img>
+         <manufacturer>Porsche</manufacturer>
+         <model>911</model>
+         <price>135000</price>
+         <wiki>http://en.wikipedia.org/wiki/Porsche_997</wiki>
+      </element>
+      <element>
+         <img>250px-Nissan_GT-R.jpg</img>
+         <manufacturer>Nissan</manufacturer>
+         <model>GT-R</model>
+         <price>80000</price>
+         <wiki>http://en.wikipedia.org/wiki/Nissan_Gt-r</wiki>
+      </element>
+      <element>
+         <img>250px-BMW_M3_E92.jpg</img>
+         <manufacturer>BMW</manufacturer>
+         <model>M3</model>
+         <price>60500</price>
+         <wiki>http://en.wikipedia.org/wiki/Bmw_m3</wiki>
+      </element>
+      <element>
+         <img>250px-Audi_S5.jpg</img>
+         <manufacturer>Audi</manufacturer>
+         <model>S5</model>
+         <price>53000</price>
+         <wiki>http://en.wikipedia.org/wiki/Audi_S5#Audi_S5</wiki>
+      </element>
+      <element>
+         <img>250px-2007_Audi_TT_Coupe.jpg</img>
+         <manufacturer>Audi</manufacturer>
+         <model>TT</model>
+         <price>40000</price>
+         <wiki>http://en.wikipedia.org/wiki/Audi_TT</wiki>
+      </element>
+   </data>
+</root>
